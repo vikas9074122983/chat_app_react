@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vikas9074122983/chat_app_react/static/css/main.4845cf2f.css",
-    "main.js": "/vikas9074122983/chat_app_react/static/js/main.6592664c.js",
-    "index.html": "/vikas9074122983/chat_app_react/index.html",
-    "main.4845cf2f.css.map": "/vikas9074122983/chat_app_react/static/css/main.4845cf2f.css.map",
-    "main.6592664c.js.map": "/vikas9074122983/chat_app_react/static/js/main.6592664c.js.map"
+    "main.css": "/chat_app_react/static/css/main.4845cf2f.css",
+    "main.js": "/chat_app_react/static/js/main.6592664c.js",
+    "index.html": "/chat_app_react/index.html",
+    "main.4845cf2f.css.map": "/chat_app_react/static/css/main.4845cf2f.css.map",
+    "main.6592664c.js.map": "/chat_app_react/static/js/main.6592664c.js.map"
   },
   "entrypoints": [
     "static/css/main.4845cf2f.css",
